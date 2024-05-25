@@ -10,7 +10,7 @@ Este e-book de 08 páginas exploras IAs Generativas e o seus efeitos em nosso di
 - Ferramento On-Line [I💗PDF](https://www.ilovepdf.com/pt) para converter arquivo em PDF.
 
 ## 🧐 Processo de Criação
-Primeiramente, usei o "ChatGPT" para construir minha pesquisa sobre IAs Generativas, planejar o conteúdo, depurar minhas ideias e elaborar a parte textual. Na questão da imagens trabalhei com o "Leonardo AI" que gerou imagens inéditas e originais para o nosso e-book. A junção da parte textual com as imagens foi realizada no Libre Office, por ser é uma ferramenta open-source gratuita para edição de textos de qualidade proporcional ao do Pacote Office da Microsoft. Por fim, para dificultar alterações indesejadas converti o arquivo final em PDF através da ferramenta on-line I💗PDF que trabalha com a manipulação de arquivos em PDF.
+Primeiramente, usei o **"ChatGPT"** para construir minha pesquisa sobre IAs Generativas, planejar o conteúdo, depurar minhas ideias e elaborar a parte textual. Na questão da imagens trabalhei com o **"Leonardo AI"** que gerou imagens inéditas e originais para o nosso e-book. A junção da parte textual com as imagens foi realizada no **"Libre Office"**, por ser uma ferramenta open-source gratuita para edição de textos de qualidade próxima ao do Pacote Office da Microsoft. Por fim, para dificultar alterações indesejadas converti o arquivo final em PDF através da ferramenta on-line **"I💗PDF"** que trabalha com a manipulação de arquivos em PDF.
 
 
 ## 🚀 Resultados

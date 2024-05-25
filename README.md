@@ -19,4 +19,4 @@ O e-book apresenta um conteúdo que explica o fundamento das IA's Generativas co
 [LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1ZjePlghzxNAj6OtahXdbeuW96LjI4Hiw/view?usp=drive_link)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi algo que me desafiou a aprender a utilizar ferramentas de IA rompendo paradigmas interno que me diziam ser de extrema dificuldade e complexidade.

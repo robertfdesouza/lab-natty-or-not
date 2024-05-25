@@ -1,7 +1,9 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando a Fronteira da Criatividade: Um Guia para Inteligência Artificial Generativa 🧠
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 08 páginas exploras IAs Generativas e o seus efeitos em nosso dia a dia através da criatividade digital e suas possibilidades.
+
+
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas

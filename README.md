@@ -14,7 +14,7 @@ Primeiramente, usei o **"ChatGPT"** para construir minha pesquisa sobre IAs Gene
 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo que explica o fundamento das IA's Generativas com imagens exclusidade, demonstrando como essas ferramentas podem ser poderosas no campo do saber, da criatividade digital e nos inúmeros ramos da sociedade moderna que vivemos atualmente.
+O e-book apresenta um conteúdo que explica o fundamento das IA's Generativas com imagens exclusivas e modernas, demonstrando como essas ferramentas podem ser poderosas no campo do saber, da criatividade digital e nos inúmeros ramos da sociedade moderna que vivemos atualmente.
 
 [LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1ZjePlghzxNAj6OtahXdbeuW96LjI4Hiw/view?usp=drive_link)
 
